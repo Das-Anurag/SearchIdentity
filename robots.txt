@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://das-anurag.github.io/SearchIdentity/sitemap.xml
